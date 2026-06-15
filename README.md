@@ -3,6 +3,8 @@ Is a p5.js project that connects math and poetry through interactive constellati
 
 This project mixes math structure and languages through functions and conditions to turn coordinates into meaning. Its about finding balance between technical design and creative expression.
 
+- **Project Timline:** 20th January 2026 - 9th Februrary 2026
+
 ## Concept
 - **Mathematical Structure** -> star coordinates, functions, conditions
 - **Creative Expression** -> poetry fragments revealed through interaction
