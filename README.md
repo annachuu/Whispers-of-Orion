@@ -6,11 +6,6 @@ This project mixes math structure and languages through functions and conditions
 - **CTCH 204:** Creative Coding (Winter 2026)
 - **Project Timline:** 20th January 2026 - 9th Februrary 2026
 
-## Concept
-- **Mathematical Structure** -> star coordinates, functions, conditions
-- **Creative Expression** -> poetry fragments revealed through interaction
-- **Interactive Design** -> constellations that respond to motion
-
 ## Demo
 **Play Here**
 - https://annachuu.github.io/Whispers-of-Orion/
